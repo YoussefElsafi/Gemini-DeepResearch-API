@@ -33,7 +33,7 @@ This project aims to replicate the advanced DeepResearch capabilities of Gemini,
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Gemini-DeepResearch-API.git
+    git clone https://github.com/YoussefElsafi/Gemini-DeepResearch-API
     cd Gemini-DeepResearch-API
     ```
 
@@ -88,7 +88,7 @@ This project aims to replicate the advanced DeepResearch capabilities of Gemini,
 1.  Run the script:
 
     ```bash
-    python your_script_name.py
+    python DeepResearch.py
     ```
 
 2.  The script will prompt you for:
@@ -116,7 +116,7 @@ The script will then generate a detailed, 500-line research report on Artificial
 
 ## Code Structure
 
--   `your_script_name.py`: The main script containing the logic for web search, content generation, and output formatting.
+-   `DeepResearch.py`: The main script containing the logic for web search, content generation, and output formatting.
 -   `Researches/`: A directory where the generated research reports are saved.
 -   `.env`: A file containing the API keys.
 
