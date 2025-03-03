@@ -21,7 +21,7 @@ This project aims to replicate the advanced DeepResearch capabilities of Gemini,
 -   `requests`
 -   `json`
 -   `os`
--   `google-generativeai` (renamed to `genai` in the code)
+-   `google.genai`
 -   `python-dotenv`
 -   `re`
 -   `markdown`
