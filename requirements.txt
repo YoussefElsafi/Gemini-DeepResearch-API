@@ -1,0 +1,5 @@
+requests
+google.genai
+python-dotenv
+markdown
+pdfkit
