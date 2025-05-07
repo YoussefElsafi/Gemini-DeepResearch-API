@@ -40,7 +40,7 @@ This project aims to replicate the advanced DeepResearch capabilities of Gemini,
 2.  Install the required Python packages:
 
     ```bash
-    pip install requests google-generativeai python-dotenv markdown pdfkit
+    pip install requests google-genai python-dotenv markdown pdfkit
     ```
 
 3.  Install wkhtmltopdf:
